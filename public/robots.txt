@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://localalert.jp/sitemap.xml

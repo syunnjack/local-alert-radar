@@ -8,7 +8,7 @@ Recommended repository name: `local-alert-radar`
 
 ## Domain candidates
 
-First candidate: `localalert.jp`
+Confirmed domain: `localalert.jp`
 
 Other candidates:
 

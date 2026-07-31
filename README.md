@@ -8,11 +8,11 @@ Recommended repository name: `local-alert-radar`
 
 ## Domain candidates
 
-Confirmed domain: `localalert.jp`
+Confirmed domain: `https://syunnjack.github.io/local-alert-radar/`
 
 Other candidates:
 
-- `localalert.jp`
+- `https://syunnjack.github.io/local-alert-radar/`
 - `machialert.jp`
 - `openclosealert.jp`
 - `tenpoalert.jp`

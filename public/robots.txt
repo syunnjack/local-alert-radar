@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://localalert.jp/sitemap.xml
+
+Sitemap: https://local-alert-radar.vercel.app/sitemap.xml
